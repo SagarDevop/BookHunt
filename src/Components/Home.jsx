@@ -1,15 +1,5 @@
 import React, { useState } from "react";
-import { ArrowLeft, ArrowRight } from "lucide-react";
-
-function Navbar() {
-  return (
-    <div className="flex gap-4">
-      <Home className="w-6 h-6" />
-      <Search className="w-6 h-6" />
-      <User className="w-6 h-6" />
-    </div>
-  );
-}
+import { ArrowLeft} from "lucide-react";
 
 function Home() {
   const [query, setQuery] = useState("");
