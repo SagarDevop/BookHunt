@@ -1,12 +1,44 @@
-# React + Vite
+# 📖 BookHunt
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BookHunt is a sleek and responsive web app that helps you **find books instantly** using the [Open Library API](https://openlibrary.org/developers/api).  
+Built with **React** and **Tailwind CSS**, it provides a clean interface to explore book titles, authors, and publish details in seconds.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🔍 Search books by title  
+- 📚 View author names and first publish year  
+- ⚡ Built with React + Tailwind CSS  
+- 🌐 Powered by Open Library API  
+- 📱 Fully responsive UI  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS  
+- **API:** Open Library API  
+
+---
+
+## 📂 Project Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SagarDevop/BookHunt.git
+🌟 Future Enhancements
+
+Add pagination for more results
+
+Save favorite books
+
+Dark mode support
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to open an issue or submit a pull request.
+
+📜 License
+
+This project is open source and available under the MIT License
+.
